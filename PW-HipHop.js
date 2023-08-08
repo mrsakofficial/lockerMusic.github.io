@@ -2,7 +2,7 @@
 function auth(){
     var username=document.getElementById('username').value;
     var password=document.getElementById('password').value;
-
+    
     if(username=="mrsak" && password=="1234")
     {
       window.location.href=("HipHop-Class/HipHop-Class.html")
@@ -32,6 +32,18 @@ function auth(){
       window.location.href=("HipHop-Class/HipHop-Class.html")
     }
     if(username=="rotha" && password=="2724")
+    {
+      window.location.href=("HipHop-Class/HipHop-Class.html")
+    }
+    if(username=="savuth" && password=="8855")
+    {
+      window.location.href=("HipHop-Class/HipHop-Class.html")
+    }
+    if(username=="Serey" && password=="2926")
+    {
+      window.location.href=("HipHop-Class/HipHop-Class.html")
+    }
+    if(username=="khuny" && password=="3029")
     {
       window.location.href=("HipHop-Class/HipHop-Class.html")
     }
