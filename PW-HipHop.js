@@ -1,8 +1,7 @@
-
 function auth(){
     var username=document.getElementById('username').value;
     var password=document.getElementById('password').value;
-    
+
     if(username=="mrsak" && password=="1234")
     {
       window.location.href=("HipHop-Class/HipHop-Class.html")
@@ -47,6 +46,7 @@ function auth(){
     {
       window.location.href=("HipHop-Class/HipHop-Class.html")
     }
+
 
     else
     {
