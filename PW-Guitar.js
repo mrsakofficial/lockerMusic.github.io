@@ -10,6 +10,10 @@ function auth(){
     {
       window.location.href=("Guitar/Guitar.html")
     }
+    if(username=="sina" && password=="3036")
+    {
+      window.location.href=("Guitar/Guitar.html")
+    }
 
     else
     {
