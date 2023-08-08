@@ -50,6 +50,10 @@ function auth(){
     {
       window.location.href=("Vocal Mixing Mastering/​Vocal Mixing Mastering.html")
     }
+    if(username=="narorn" && password=="3038")
+    {
+      window.location.href=("Vocal Mixing Mastering/​Vocal Mixing Mastering.html")
+    }
     else
     {
         alert("Loocker Music")
