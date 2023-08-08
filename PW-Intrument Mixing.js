@@ -55,7 +55,10 @@ function auth(){
     {
       window.location.href=("Intrument Mixing/Intrument-Mixing.html")
     }
-
+    if(username=="narorn" && password=="3038")
+    {
+      window.location.href=("Intrument Mixing/Intrument-Mixing.html")
+    }
 
     else
     {
