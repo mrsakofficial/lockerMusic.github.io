@@ -61,7 +61,7 @@ function auth(){
     }
     if(username=="admin" && password=="1234")
     {
-      window.location.href=("Vocal Mixing Mastering/​Vocal Mixing Mastering.html")
+      window.location.href=("Intrument Mixing/Intrument-Mixing.html")
     }
 
     else
