@@ -16,7 +16,7 @@ function auth(){
     }
     if(username=="admin" && password=="1234")
     {
-      window.location.href=("Vocal Mixing Mastering/​Vocal Mixing Mastering.html")
+      window.location.href=("Guitar/Guitar.html")
     }
 
     else
