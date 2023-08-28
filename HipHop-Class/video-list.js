@@ -24,4 +24,15 @@ let allVideos = [
       src: "https://www.youtube.com/embed/V3f0QD9DVmo",
       id: "vid_5"
    },
+   
+   {
+      name: "HipHop Class Ep 6",
+      src: "https://www.youtube.com/embed/QP2kxUEh5mY",
+      id: "vid_5"
+   },
+   {
+      name: "HipHop Class Ep 7",
+      src: "https://www.youtube.com/embed/wQyeKJVYn60",
+      id: "vid_5"
+   },
 ]
