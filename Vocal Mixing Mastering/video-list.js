@@ -25,13 +25,13 @@ let allVideos = [
       id: "vid_5"
    },
    {
-      name: "រង់ចាំមេរៀនបន្ត",
-      src: "https://www.youtube.com/embed/uyHXCTy-be8",
+      name: "Vocal Mixing Mastering Ep 6",
+      src: "https://www.youtube.com/embed/uP5MUiC9eCs",
       id: "vid_6"
    },
    {
-      name: "រង់ចាំមេរៀនបន្ត",
-      src: "https://www.youtube.com/embed/uyHXCTy-be8",
+      name: "Vocal Mixing Mastering Ep 7",
+      src: "https://www.youtube.com/embed/ZTB62Hw8j-4",
       id: "vid_7"
    },
    {
