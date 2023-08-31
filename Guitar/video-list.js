@@ -5,8 +5,8 @@ let allVideos = [
       id: "vid_1"
    },
    {
-      name: "រង់ចាំមេរៀនបន្ត",
-      src: "https://www.youtube.com/embed/uyHXCTy-be8",
+      name: "Guitar Ep 2",
+      src: "https://www.youtube.com/embed/vYVRlPrz4X4",
       id: "vid_7"
    },
    {
