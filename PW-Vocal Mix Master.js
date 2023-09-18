@@ -58,6 +58,10 @@ function auth(){
     {
       window.location.href=("Vocal Mixing Mastering/​Vocal Mixing Mastering.html")
     }
+    if(username=="hukly" && password=="3021")
+    {
+      window.location.href=("Vocal Mixing Mastering/​Vocal Mixing Mastering.html")
+    }
 
     else
     {
