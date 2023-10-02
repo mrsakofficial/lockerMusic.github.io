@@ -63,6 +63,10 @@ function auth(){
     {
       window.location.href=("Intrument Mixing/Intrument-Mixing.html")
     }
+    if(username=="sophea" && password=="2918")
+    {
+      window.location.href=("Intrument Mixing/Intrument-Mixing.html")
+    }
 
     else
     {
