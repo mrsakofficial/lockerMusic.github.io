@@ -50,6 +50,10 @@ function auth(){
     {
       window.location.href=("HipHop-Class/HipHop-Class.html")
     }
+    if(username=="hukly" && password=="3021")
+    {
+      window.location.href=("HipHop-Class/HipHop-Class.html")
+    }
 
     else
     {
