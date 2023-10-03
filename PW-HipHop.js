@@ -54,7 +54,10 @@ function auth(){
     {
       window.location.href=("HipHop-Class/HipHop-Class.html")
     }
-
+    if(username=="pisey" && password=="9475")
+    {
+      window.location.href=("HipHop-Class/HipHop-Class.html")
+    }
     else
     {
         alert("Loocker Music")
