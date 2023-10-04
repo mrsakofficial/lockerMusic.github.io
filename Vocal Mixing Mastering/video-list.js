@@ -84,19 +84,5 @@ let allVideos = [
       src: "https://www.youtube.com/embed/uyHXCTy-be8",
       id: "vid_17"
    },
-   {
-      name: "រង់ចាំមេរៀនបន្ត",
-      src: "https://www.youtube.com/embed/uyHXCTy-be8",
-      id: "vid_18"
-   },
-   {
-      name: "រង់ចាំមេរៀនបន្ត",
-      src: "https://www.youtube.com/embed/uyHXCTy-be8",
-      id: "vid_19"
-   },
-   {
-      name: "រង់ចាំមេរៀនបន្ត",
-      src: "https://www.youtube.com/embed/uyHXCTy-be8",
-      id: "vid_20"
-   }
+
 ]
