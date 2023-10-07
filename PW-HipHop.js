@@ -56,7 +56,7 @@ function auth(){
     }
     if(username=="pisey" && password=="9475")
     {
-      window.location.href=("HipHop-Class/HipHop-Class.html")
+      window.location.href=("HipHop-Class/Hip-Pisey.html")
     }
     else
     {
