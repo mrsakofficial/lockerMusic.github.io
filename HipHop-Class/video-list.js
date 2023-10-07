@@ -28,40 +28,52 @@ let allVideos = [
    {
       name: "HipHop Class Ep 6",
       src: "https://www.youtube.com/embed/QP2kxUEh5mY",
-      id: "vid_5"
+      id: "vid_6"
    },
    {
       name: "HipHop Class Ep 7",
       src: "https://www.youtube.com/embed/wQyeKJVYn60",
-      id: "vid_5"
+      id: "vid_7"
    },
    
    {
       name: "HipHop Class Ep 8",
       src: "https://www.youtube.com/embed/tzM5Jy5_tw8",
-      id: "vid_5"
+      id: "vid_8"
    },
    
    {
       name: "HipHop Class Ep 9",
       src: "https://www.youtube.com/embed/Vp5LAXX0SGg",
-      id: "vid_5"
+      id: "vid_9"
    },
     {
       name: "HipHop Class Ep 10",
       src: "https://www.youtube.com/embed/2myjnk-SR9s",
-      id: "vid_5"
+      id: "vid_10"
    },
    
     {
       name: "HipHop Class Ep 11",
       src: "https://www.youtube.com/embed/rn8ISFeiifo",
-      id: "vid_5"
+      id: "vid_11"
    },
    
     {
       name: "HipHop Class Ep 12",
       src: "https://www.youtube.com/embed/UNA0pO1Xsgk",
-      id: "vid_5"
+      id: "vid_12"
+   },
+   
+    {
+      name: "HipHop Class Ep 13",
+      src: "https://www.youtube.com/embed/F9zx_9NDKJw",
+      id: "vid_13"
+   },
+   
+    {
+      name: "HipHop Class Ep 14",
+      src: "https://www.youtube.com/embed/T9hD6Fmzn8o",
+      id: "vid_14"
    },
 ]
