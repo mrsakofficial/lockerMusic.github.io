@@ -38,7 +38,10 @@ function auth(){
     {
       window.location.href=("Make-Orignal-Song/Make-Orignal-Song.html")
     }
-
+    if(username=="sopeap" && password=="3034")
+    {
+      window.location.href=("Make-Orignal-Song/Make-Orignal-Song.html")
+    }
 
     else
     {
